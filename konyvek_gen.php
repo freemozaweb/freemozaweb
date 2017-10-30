@@ -43,6 +43,9 @@
 <br><br>
 <a class="text-center" href="könyvek/";">Nyitott mappa, a profiknak!</a>
 <br><br>
+<a class="text-center" href="https://my.mixtape.moe/dmrduj.zip">Összes letöltés Windows program!</a>
+<br><br>
+<a class="text-center" href="#" onclick="alert('Ne felejtsd el a wget paramétert --remote-encoding=utf-8 és a --restrict-file-names=nocontrol használni!');">Összes letöltés Linux tipp!</a>
 <a href="könyvek/Extrák">Extrák</a> 
 </div>
 <br>
